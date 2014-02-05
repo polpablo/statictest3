@@ -1,2 +1,2 @@
-statictest3
+statictest2
 ===========
